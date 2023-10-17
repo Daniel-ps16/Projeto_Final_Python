@@ -1,5 +1,5 @@
 ## Projeto Final - Curso de Python - Grupo 2 - Turma 54335
-#### - Alunos:
+#### Alunos:
 * Bruno Santos Da Silva
 * Carlos Cesar Gonçalves dos Santos
 * Daniel Lucas
@@ -12,3 +12,4 @@ Foram feitas as seguintes tratativas:
 * Coleta
 * Limpeza
 * Armazenamento dos dados
+* Criação de ambiente virtual (venv)
