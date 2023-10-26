@@ -16,3 +16,5 @@ Foram feitas as seguintes tratativas:
 * Criação de ambiente virtual (venv)
 
 Informações de requerimento no arquivo requirements.txt
+
+O arquivo Projeto 01.ipynb apresenta desde a coleta até a geração do banco de dados para estudo.
