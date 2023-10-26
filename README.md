@@ -4,7 +4,7 @@
 * Carlos Cesar Gonçalves dos Santos
 * Daniel Lucas
 
-####Objetivo:
+Objetivo:
 Coleta e transformação de dados via consulta API para disponibilização de base de dados para estudos futuros.
 
 Através da biblioteca requests, foi feita a coleta de dados do site <https://restcountries.com>.<br>
