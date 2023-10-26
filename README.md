@@ -15,6 +15,6 @@ Foram feitas as seguintes tratativas:
 * Armazenamento dos dados
 * Criação de ambiente virtual (venv)
 
-Informações de requerimento no arquivo requirements.txt
+Informações de requerimentos no arquivo requirements.txt.
 
 O arquivo Projeto 01.ipynb apresenta desde a coleta até a geração do banco de dados para estudo.
