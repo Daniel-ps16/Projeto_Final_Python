@@ -14,3 +14,5 @@ Foram feitas as seguintes tratativas:
 * Limpeza
 * Armazenamento dos dados
 * Criação de ambiente virtual (venv)
+
+Informações de requerimento no arquivo requirements.txt
