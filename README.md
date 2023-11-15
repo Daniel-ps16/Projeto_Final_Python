@@ -12,9 +12,11 @@ Foram feitas as seguintes tratativas:
 
 * Coleta
 * Limpeza
+* Tratamento dos dados
 * Armazenamento dos dados
 * Criação de ambiente virtual (venv)
 
 Informações de requerimentos no arquivo requirements.txt.
 
 O arquivo Projeto 01.ipynb apresenta desde a coleta até a geração do banco de dados para estudo.
+Foram inclusos comentários para orientar aos que pegarem o projeto e realizar alguma alteração.
